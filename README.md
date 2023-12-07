@@ -2,3 +2,5 @@
 
 Anotei aqui nesse repositório tudo que achei mais importante dentro do
 conteúdo que foi passado no curso.
+
+No arquivo .docx você pode editar o conteúdo da forma que quiser
