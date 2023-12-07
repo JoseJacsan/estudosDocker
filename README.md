@@ -3,4 +3,4 @@
 Anotei aqui nesse repositório tudo que achei mais importante dentro do
 conteúdo que foi passado no curso.
 
-No arquivo .docx você pode editar o conteúdo da forma que quiser
+Disponível em .docx, .pdf e em [markdown](https://github.com/JoseJacsan/estudosDocker/blob/main/anotacoes.md)
